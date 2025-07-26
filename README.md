@@ -1,4 +1,4 @@
-<img src="/images/URACCAN.png" alt="Logotipo" width="300"> 
+<img src="/images/URACCAN.png" alt="Logotipo" width="150">  Universidad de las Regiones Autonoma Costa Caribe Nicaraguënse
 <hr>
 
 # Curso de Diseño Web I
